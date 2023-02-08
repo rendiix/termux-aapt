@@ -7,10 +7,11 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/rendiix/termux-aapt.svg)](https://github.com/rendiix/termux-aapt/graphs/contributors/)
 
 # termux-aapt
+Update: upstream tags platform-tools-34.0.0
 
-## Prebuilt aapt and aapt2 for termux android
+# NOTICE: This update might be the last, I don't have enough time to do this hobby. I still appreciate every donation, thank you
 
-> This is a fork from  [iBotPeaches](https://github.com/iBotPeaches/platform_frameworks_base) and compile it to work on termux android
+## Prebuilt aapt and aapt2 for termux android 
 
 #### List of supported architectures:
 
